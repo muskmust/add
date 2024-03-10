@@ -1,3 +1,4 @@
+IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
 111.118.43.151,31228,443,TRUE,ICN,Asia Pacific,Seoul,322,1.53
 27.35.13.136,31703,443,TRUE,ICN,Asia Pacific,Seoul,103,1.11
 59.187.254.31,11505,443,TRUE,ICN,Asia Pacific,Seoul,144,11
